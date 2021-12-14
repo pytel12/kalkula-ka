@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulačka", "kalkulačka\kalkulačka.csproj", "{DA8D9553-1043-43C6-AB15-4C8365B61123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8D9553-1043-43C6-AB15-4C8365B61123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8D9553-1043-43C6-AB15-4C8365B61123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8D9553-1043-43C6-AB15-4C8365B61123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8D9553-1043-43C6-AB15-4C8365B61123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {459FCDD4-A4AA-44E6-AB49-1E1199EF3946}
+	EndGlobalSection
+EndGlobal
